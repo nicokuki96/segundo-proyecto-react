@@ -23,15 +23,15 @@ const Header = () => {
                         <a href="/" className="top-header-text"><img src={logo} height={67} alt="Herida de Paris" /></a>
                     </Col>
                     <Col className="col-header-nav" lg={6}>
-                    <Nav variant="pills" defaultActiveKey="/home">
+                    <Nav variant="pills" defaultActiveKey="/">
                         <Nav.Item>
-                            <Nav.Link href="/home">Home</Nav.Link>
+                            <Nav.Link href="/">Home</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="link-1">Productos</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link eventKey="link-2">Contacto</Nav.Link>
+                            <Nav.Link href="/contacto" eventKey="link-2">Contacto</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="link-3">Preguntas frecuentes</Nav.Link>
