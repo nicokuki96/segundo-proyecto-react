@@ -25,7 +25,7 @@ const Header = () => {
                     <Col className="col-header-nav" lg={6}>
                     <Nav variant="pills" defaultActiveKey="/">
                         <Nav.Item>
-                            <Nav.Link href="/">Home</Nav.Link>
+                            <Nav.Link href="/segundo-proyecto-react">Home</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="link-1">Productos</Nav.Link>

@@ -18,7 +18,7 @@ function App() {
     <div className="App">
       <Router>
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/segundo-proyecto-react">
               <Topbar/>
               <Header/>
               <Menu/>
