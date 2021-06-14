@@ -25,7 +25,7 @@ function App() {
               <Carousel/>
               <Info/>
             </Route>
-            <Route path="/contacto">
+            <Route path="/segundo-proyecto-react/contacto">
               <Topbar/>
               <Header/>
               <Menu/>

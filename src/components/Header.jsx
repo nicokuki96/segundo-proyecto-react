@@ -31,7 +31,7 @@ const Header = () => {
                             <Nav.Link eventKey="link-1">Productos</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
-                            <Nav.Link href="/contacto" eventKey="link-2">Contacto</Nav.Link>
+                            <Nav.Link href="/segundo-proyecto-react/contacto" eventKey="link-2">Contacto</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
                             <Nav.Link eventKey="link-3">Preguntas frecuentes</Nav.Link>
