@@ -23,7 +23,7 @@ const Header = () => {
                         <a href="/" className="top-header-text"><img src={logo} height={67} alt="Herida de Paris" /></a>
                     </Col>
                     <Col className="col-header-nav" lg={6}>
-                    <Nav variant="pills" defaultActiveKey="/">
+                    <Nav variant="pills" defaultActiveKey="/segundo-proyecto-react">
                         <Nav.Item>
                             <Nav.Link href="/segundo-proyecto-react">Home</Nav.Link>
                         </Nav.Item>
