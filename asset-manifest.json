@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/segundo-proyecto-react/static/css/main.c5c7ce13.chunk.css",
-    "main.js": "/segundo-proyecto-react/static/js/main.2941c4b9.chunk.js",
-    "main.js.map": "/segundo-proyecto-react/static/js/main.2941c4b9.chunk.js.map",
+    "main.css": "/segundo-proyecto-react/static/css/main.5cdd4a9b.chunk.css",
+    "main.js": "/segundo-proyecto-react/static/js/main.4561e2cd.chunk.js",
+    "main.js.map": "/segundo-proyecto-react/static/js/main.4561e2cd.chunk.js.map",
     "runtime-main.js": "/segundo-proyecto-react/static/js/runtime-main.9105f93f.js",
     "runtime-main.js.map": "/segundo-proyecto-react/static/js/runtime-main.9105f93f.js.map",
     "static/css/2.d082f37e.chunk.css": "/segundo-proyecto-react/static/css/2.d082f37e.chunk.css",
-    "static/js/2.bde2fe8d.chunk.js": "/segundo-proyecto-react/static/js/2.bde2fe8d.chunk.js",
-    "static/js/2.bde2fe8d.chunk.js.map": "/segundo-proyecto-react/static/js/2.bde2fe8d.chunk.js.map",
+    "static/js/2.8a3034bf.chunk.js": "/segundo-proyecto-react/static/js/2.8a3034bf.chunk.js",
+    "static/js/2.8a3034bf.chunk.js.map": "/segundo-proyecto-react/static/js/2.8a3034bf.chunk.js.map",
     "index.html": "/segundo-proyecto-react/index.html",
     "static/css/2.d082f37e.chunk.css.map": "/segundo-proyecto-react/static/css/2.d082f37e.chunk.css.map",
-    "static/css/main.c5c7ce13.chunk.css.map": "/segundo-proyecto-react/static/css/main.c5c7ce13.chunk.css.map",
-    "static/js/2.bde2fe8d.chunk.js.LICENSE.txt": "/segundo-proyecto-react/static/js/2.bde2fe8d.chunk.js.LICENSE.txt",
+    "static/css/main.5cdd4a9b.chunk.css.map": "/segundo-proyecto-react/static/css/main.5cdd4a9b.chunk.css.map",
+    "static/js/2.8a3034bf.chunk.js.LICENSE.txt": "/segundo-proyecto-react/static/js/2.8a3034bf.chunk.js.LICENSE.txt",
     "static/media/facebook_portada.c3988081.png": "/segundo-proyecto-react/static/media/facebook_portada.c3988081.png",
     "static/media/logo.3df7d1ef.png": "/segundo-proyecto-react/static/media/logo.3df7d1ef.png",
     "static/media/portada2.1b37bc33.jpeg": "/segundo-proyecto-react/static/media/portada2.1b37bc33.jpeg",
@@ -20,8 +20,8 @@
   "entrypoints": [
     "static/js/runtime-main.9105f93f.js",
     "static/css/2.d082f37e.chunk.css",
-    "static/js/2.bde2fe8d.chunk.js",
-    "static/css/main.c5c7ce13.chunk.css",
-    "static/js/main.2941c4b9.chunk.js"
+    "static/js/2.8a3034bf.chunk.js",
+    "static/css/main.5cdd4a9b.chunk.css",
+    "static/js/main.4561e2cd.chunk.js"
   ]
 }
